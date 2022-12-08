@@ -1,5 +1,5 @@
 Changes in code so that is working in CKAN 2.9
-=================
+=====
 
 Note: made obsolete by ckanext-scheming 2.1 multiple_text fields
 
