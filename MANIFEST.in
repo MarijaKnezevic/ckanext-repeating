@@ -1,1 +1,3 @@
+recursive-include    ckanext/repeating/templates  *
+recursive-include    ckanext/repeating            presets.json
 recursive-include    ckanext/repeating            repeating_scheming.json
